@@ -5,6 +5,6 @@ The project uses the IRremote library for a simple solution to discover the code
 <br><br>
 The code and schematic are to compliment the Slider2732_ YouTube video here: 
 <br>
-(https://github.com/Slider2732-2/IR-Codes-Display)
+https://youtu.be/EWGCne1TQ3M
 
 

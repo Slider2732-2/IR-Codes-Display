@@ -6,5 +6,9 @@ The project uses the IRremote library for a simple solution to discover the code
 The code and schematic are to compliment the Slider2732_ YouTube video here: 
 <br>
 https://youtu.be/EWGCne1TQ3M
+<br><br>
+NEW - 4 games to play on the same circuit with any remote control!
+Video out on Saturday October 10th
+
 
 
